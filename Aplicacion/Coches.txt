@@ -1,0 +1,26 @@
+Tesla Model 3
+2019
+300kmh
+blanco
+30000
+Porsche 918
+2018
+400kmh
+amarillo
+1200000
+Renault Clio
+2017
+220kmh
+plata
+10000
+Di Tomaso V8
+2005
+380kmh
+rojo
+25000
+Mercedes Benz Class A Brabus
+2019
+380kmh
+negro
+40000
+
